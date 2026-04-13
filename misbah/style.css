@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(95, 4, 4);
+    margin: 10px;
+}
+
+h2 {
+    color: rgb(83, 44, 7);
+    background-color: rgb(197, 165, 61);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+section {
+    width: 80%;
+    margin: 15px auto;
+}
+
+div {
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px gray;
+}
+
+p {
+    color: rgb(112, 13, 13);
+    line-height: 1.6;
+}
+
+li {
+    color: rgb(112, 13, 13);
+    margin: 5px 0;
+}
+
+ul {
+    padding-left: 20px;
+}
